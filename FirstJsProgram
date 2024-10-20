@@ -1,0 +1,4 @@
+Today I learned how to print Hello World into the terminal in the language Javascript
+It is done by using the object " console.log() " this will print the string in the parenthesis into the terminal
+for example console.log("Hello World") prints "Hello World" into the terminal
+console.log("Hello World")
